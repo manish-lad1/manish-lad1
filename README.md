@@ -9,12 +9,24 @@ AI Product Manager · 12 years in tech, 6 building AI products · Writing to hel
 I'm an AI Product Manager with 12+ years in tech, the last 6 spent entirely in AI. I work on products that sit at the intersection of AI capabilities and real-world workflows — the kind where the gap between "this model is impressive" and "this actually ships value" is everything.
 
 Day to day, my work spans:
-
 - **AI infrastructure for developers** — building developer experience around AI APIs, including MCP servers, Agent Skills, and `llms.txt` to make products natively usable by AI agents and coding assistants
 - **Document intelligence** — large-scale intelligent document processing platforms handling hundreds of thousands of documents a month, with high accuracy and significant time savings per document
 - **Natural language interfaces** — tools that let non-technical users describe what they want in plain language and get working outputs
 
 I care deeply about the PM craft in AI — not just prompting or demos, but the unglamorous work of evals, reliability, edge cases, and knowing when AI is the right tool at all.
+
+---
+
+## AI Apps
+
+I build in public. **[`ai-apps`](https://github.com/manish-lad1/ai-apps)** is where I keep practical, forkable AI apps — agents, RAG systems, MCP servers, and utility tools — built to learn from, not just to demo.
+
+Every project is real (something I built to solve an actual problem or explore a pattern I write about), documented for anyone to clone and run, and gets a companion writeup in the newsletter.
+
+**Featured build:**
+- 🧠 **[PRD Critique Agent](https://github.com/manish-lad1/ai-apps/tree/main/ai_agents/prd_critique_agent)** — drafts a PRD from a rough idea, critiques its own draft against a PM review rubric, then refines it. Every stage is visible, and it runs on a local model or the Claude API.
+
+👉 [Browse all projects at github.com/manish-lad1/ai-apps](https://github.com/manish-lad1/ai-apps)
 
 ---
 
