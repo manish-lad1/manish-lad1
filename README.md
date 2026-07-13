@@ -25,7 +25,7 @@ Every project is real (something I built to solve an actual problem or explore a
 
 **Featured build:**
 - 🧠 **[PRD Critique Agent](https://github.com/manish-lad1/ai-apps/tree/main/ai_agents/prd_critique_agent)** — drafts a PRD from a rough idea, critiques its own draft against a PM review rubric, then refines it. Every stage is visible, and it runs on a local model or the Claude API.
-- - 🧾 **[Form Builder Agent](https://github.com/manish-lad1/ai-apps/tree/main/ai_agents/form_builder_agent)** — turns a plain-language description into a live, working form. Refine it conversationally, then export as React or plain HTML.
+- 🧾 **[Form Builder Agent](https://github.com/manish-lad1/ai-apps/tree/main/ai_agents/form_builder_agent)** — turns a plain-language description into a live, working form. Refine it conversationally, then export as React or plain HTML.
 
 👉 [Browse all projects at github.com/manish-lad1/ai-apps](https://github.com/manish-lad1/ai-apps)
 
