@@ -23,10 +23,11 @@ I build in public. **[`ai-apps`](https://github.com/manish-lad1/ai-apps)** is wh
 
 Every project is real (something I built to solve an actual problem or explore a pattern I write about), documented for anyone to clone and run, and gets a companion writeup in the newsletter.
 
-**Featured build:**
+**Recent builds:**
 - 🧠 **[PRD Critique Agent](https://github.com/manish-lad1/ai-apps/tree/main/ai_agents/prd_critique_agent)** — drafts a PRD from a rough idea, critiques its own draft against a PM review rubric, then refines it. Every stage is visible, and it runs on a local model or the Claude API.
 - 🧾 **[Form Builder Agent](https://github.com/manish-lad1/ai-apps/tree/main/ai_agents/form_builder_agent)** — turns a plain-language description into a live, working form. Refine it conversationally, then export as React or plain HTML.
 - 🔍 **[GitHub Insights MCP](https://github.com/manish-lad1/ai-apps/tree/main/mcp_apps/github_insights_mcp)** — a read-only MCP server that answers questions about any GitHub repo's structure, activity, issues, and PRs. Works standalone in any MCP client, and ships with a demo chat UI that shows exactly which tools the LLM calls.
+- 📚 **[Knowledge Base RAG](https://github.com/manish-lad1/ai-apps/tree/main/rag_apps/knowledge_base_rag)** — retrieval-augmented Q&A that answers only from retrieved passages and cites every claim. Ask a built-in corpus (newsletter + repo docs), or upload your own files and URLs into an ephemeral session knowledge base.
 
 👉 [Browse all projects at github.com/manish-lad1/ai-apps](https://github.com/manish-lad1/ai-apps)
 
