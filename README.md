@@ -53,7 +53,7 @@ I speak at community events and conferences on AI product management — practic
 
 All slide decks from my public sessions are available in the **[`speaking`](https://github.com/manish-lad1/speaking)** repo — open for anyone to reference, share, or build on (with attribution).
 
-**Recent and upcoming sessions:**
+**Recent sessions:**
 - 🎙️ *MCP vs Agent Skills — When to Use What* — a practical framework for choosing between these two patterns
 
 ---
