@@ -28,6 +28,7 @@ Every project is real (something I built to solve an actual problem or explore a
 - 🧾 **[Form Builder Agent](https://github.com/manish-lad1/ai-apps/tree/main/ai_agents/form_builder_agent)** — turns a plain-language description into a live, working form. Refine it conversationally, then export as React or plain HTML.
 - 🔍 **[GitHub Insights MCP](https://github.com/manish-lad1/ai-apps/tree/main/mcp_apps/github_insights_mcp)** — a read-only MCP server that answers questions about any GitHub repo's structure, activity, issues, and PRs. Works standalone in any MCP client, and ships with a demo chat UI that shows exactly which tools the LLM calls.
 - 📚 **[Knowledge Base RAG](https://github.com/manish-lad1/ai-apps/tree/main/rag_apps/knowledge_base_rag)** — retrieval-augmented Q&A that answers only from retrieved passages and cites every claim. Ask a built-in corpus (newsletter + repo docs), or upload your own files and URLs into an ephemeral session knowledge base.
+- 🧩 **[Idea Research Pipeline](https://github.com/manish-lad1/ai-apps/tree/main/pipeline_apps/idea_research_pipeline)** — takes a product idea, generates research questions across market, technical, and business dimensions for your approval, then fans out parallel agents to research each one and hands off to a report agent that critiques and revises its own findings before flagging contradictions across sources.
 
 👉 [Browse all projects at github.com/manish-lad1/ai-apps](https://github.com/manish-lad1/ai-apps)
 
